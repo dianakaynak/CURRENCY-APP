@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  /*
+  bütün tarayıcıyı kaplasın */
+  background-image: url(image/sss.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
